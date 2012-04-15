@@ -1,0 +1,40 @@
+.WEGraphTable {
+    background: #333;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #fff;
+    border-collapse: collapse;
+    border: 2px solid #333;
+    padding: 0px;
+}
+
+.WEGraphTr {
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+}
+
+.WEGraphTd1 {
+    background: #667;
+    text-shadow: -1px -1px 2px #000;
+}
+
+.WEGraphTd2 {
+    background-image: url("./../img/WEtdbg.png");
+    text-align: center;
+    text-shadow: -1px -1px 2px #000;
+}
+
+.WEGraphTd3 {
+    background-image: url("./../img/WEtdbg.png");
+}
+
+.WEGraphDivOut {
+    height: 10px;
+    background: #111;
+    border :1px solid #000;
+}
+
+.WEGraphDivIn {
+    height: 10px;
+}
+
